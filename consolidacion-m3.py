@@ -22,6 +22,7 @@ def imprimir_nombres(nombres):
         print(nombre)
 
 # Imprimir la lista completa de nombres 
+
 print("\nLista completa de nombres:\n")
 imprimir_nombres(nombres)
 
